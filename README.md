@@ -1,2 +1,8 @@
-# jdbc-demo
-examples jdbc usage for some popular databases
+# java-record-pieces
+
+> all pieces record from tutorials demos or project test
+
+- note learn demo
+
+- test examples
+
